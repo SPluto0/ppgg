@@ -1,0 +1,1558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="comet:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="rpc-client" />
+      <module name="bio" />
+      <module name="rpc-prepare" />
+      <module name="nio" />
+      <module name="vip-v2-netty" />
+      <module name="rpc-server" />
+      <module name="netty-basic" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36b99098-fdd7-41b1-84af-4b471d8bf136" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/netty-basic/target/" />
+    <ignored path="$PROJECT_DIR$/netty-http/target/" />
+    <ignored path="$PROJECT_DIR$/comet/target/" />
+    <ignored path="$PROJECT_DIR$/netty-adv/target/" />
+    <ignored path="$PROJECT_DIR$/netty-ws/target/" />
+    <ignored path="$PROJECT_DIR$/ws/target/" />
+    <ignored path="$PROJECT_DIR$/udp/target/" />
+    <ignored path="$PROJECT_DIR$/stomp/target/" />
+    <ignored path="$PROJECT_DIR$/netty-rpc-client/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="vip-v2-netty" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="NettyServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/NettyServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="29" column="31" lean-forward="false" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChannelOption.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/ChannelOption.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2068">
+              <caret line="121" column="58" lean-forward="false" selection-start-line="121" selection-start-column="47" selection-end-line="121" selection-end-column="58" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NettyClient.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/NettyClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="25" column="3" lean-forward="false" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClientInit.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/client/ClientInit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="50" lean-forward="false" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NettyConstant.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/vo/NettyConstant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BusiClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/BusiClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="29" column="17" lean-forward="false" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServerInit.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/server/ServerInit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="16" column="64" lean-forward="false" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KryoDecoder.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/kryocodec/KryoDecoder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KryoSerializer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/kryocodec/KryoSerializer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="37" column="25" lean-forward="false" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Kryo.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/esotericsoftware/kryo/4.0.0/kryo-4.0.0.jar!/com/esotericsoftware/kryo/Kryo.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16302">
+              <caret line="840" column="0" lean-forward="false" selection-start-line="840" selection-start-column="0" selection-end-line="840" selection-end-column="0" />
+              <folding>
+                <marker date="1582553617297" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1582553617297" expanded="false" signature="149:5956" ph="..." />
+                <marker date="1582553617297" expanded="false" signature="7317:7328" ph=" { " />
+                <marker date="1582553617297" expanded="false" signature="7417:7423" ph=" }" />
+                <marker date="1582553617297" expanded="true" signature="7478:7574" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="7658:7741" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="7854:12926" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="12995:13190" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="13269:13497" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="13571:14073" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="14161:14655" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="14751:15272" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="15329:16229" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="16305:16665" ph="{...}" />
+                <marker date="1582553617297" expanded="false" signature="16724:16735" ph=" { " />
+                <marker date="1582553617297" expanded="false" signature="16792:16798" ph=" }" />
+                <marker date="1582553617297" expanded="true" signature="16845:17037" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="17092:17288" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="17358:17705" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="17783:17987" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="18049:18677" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="18718:19027" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="19081:20452" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="20512:20677" ph="{...}" />
+                <marker date="1582553617297" expanded="false" signature="20731:20742" ph=" { " />
+                <marker date="1582553617297" expanded="false" signature="20793:20799" ph=" }" />
+                <marker date="1582553617297" expanded="false" signature="20848:20859" ph=" { " />
+                <marker date="1582553617297" expanded="false" signature="20909:20915" ph=" }" />
+                <marker date="1582553617297" expanded="true" signature="20979:21408" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="21468:22399" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="21468:22413" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="22496:23470" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="23548:24974" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="25063:26379" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="26447:27476" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="27560:28782" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="28831:29250" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="29308:30634" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="30715:32114" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="32178:33921" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="34008:35753" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="35805:37421" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="37495:38993" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="39036:39628" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="39654:40154" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="40188:41585" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="41642:43012" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="43053:44471" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="44535:45926" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="45959:46461" ph="{...}" />
+                <marker date="1582553617297" expanded="false" signature="46506:46517" ph=" { " />
+                <marker date="1582553617297" expanded="false" signature="46543:46549" ph=" }" />
+                <marker date="1582553617297" expanded="false" signature="46602:46613" ph=" { " />
+                <marker date="1582553617297" expanded="false" signature="46643:46649" ph=" }" />
+                <marker date="1582553617297" expanded="true" signature="46707:46899" ph="{...}" />
+                <marker date="1582553617297" expanded="false" signature="46940:46951" ph=" { " />
+                <marker date="1582553617297" expanded="false" signature="46975:46981" ph=" }" />
+                <marker date="1582553617297" expanded="true" signature="47053:47235" ph="{...}" />
+                <marker date="1582553617297" expanded="false" signature="47280:47291" ph=" { " />
+                <marker date="1582553617297" expanded="false" signature="47324:47330" ph=" }" />
+                <marker date="1582553617297" expanded="true" signature="47408:47603" ph="{...}" />
+                <marker date="1582553617297" expanded="false" signature="47651:47662" ph=" { " />
+                <marker date="1582553617297" expanded="false" signature="47698:47704" ph=" }" />
+                <marker date="1582553617297" expanded="true" signature="47759:48199" ph="{...}" />
+                <marker date="1582553617297" expanded="false" signature="48258:48269" ph=" { " />
+                <marker date="1582553617297" expanded="false" signature="48306:48312" ph=" }" />
+                <marker date="1582553617297" expanded="false" signature="48373:48384" ph=" { " />
+                <marker date="1582553617297" expanded="false" signature="48418:48424" ph=" }" />
+                <marker date="1582553617297" expanded="false" signature="48497:48508" ph=" { " />
+                <marker date="1582553617297" expanded="false" signature="48548:48554" ph=" }" />
+                <marker date="1582553617297" expanded="true" signature="48630:49026" ph="{...}" />
+                <marker date="1582553617297" expanded="false" signature="49062:49073" ph=" { " />
+                <marker date="1582553617297" expanded="false" signature="49096:49102" ph=" }" />
+                <marker date="1582553617297" expanded="false" signature="49174:49185" ph=" { " />
+                <marker date="1582553617297" expanded="false" signature="49210:49216" ph=" }" />
+                <marker date="1582553617297" expanded="false" signature="49275:49286" ph=" { " />
+                <marker date="1582553617297" expanded="false" signature="49307:49313" ph=" }" />
+                <marker date="1582553617297" expanded="false" signature="49375:49386" ph=" { " />
+                <marker date="1582553617297" expanded="false" signature="49431:49437" ph=" }" />
+                <marker date="1582553617297" expanded="true" signature="49483:49829" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="49865:49992" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="50033:50175" ph="{...}" />
+                <marker date="1582553617297" expanded="false" signature="50202:50213" ph=" { " />
+                <marker date="1582553617297" expanded="false" signature="50231:50237" ph=" }" />
+                <marker date="1582553617297" expanded="false" signature="50284:50295" ph=" { " />
+                <marker date="1582553617297" expanded="false" signature="50322:50328" ph=" }" />
+                <marker date="1582553617297" expanded="false" signature="50377:50388" ph=" { " />
+                <marker date="1582553617297" expanded="false" signature="50415:50421" ph=" }" />
+                <marker date="1582553617297" expanded="true" signature="50465:50639" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="50680:50951" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="50997:51183" ph="{...}" />
+                <marker date="1582553617297" expanded="false" signature="51234:51245" ph=" { " />
+                <marker date="1582553617297" expanded="false" signature="51274:51280" ph=" }" />
+                <marker date="1582553617297" expanded="false" signature="51325:51336" ph=" { " />
+                <marker date="1582553617297" expanded="false" signature="51362:51368" ph=" }" />
+                <marker date="1582553617297" expanded="false" signature="51431:51442" ph=" { " />
+                <marker date="1582553617297" expanded="false" signature="51477:51483" ph=" }" />
+                <marker date="1582553617297" expanded="true" signature="51489:51507" ph="/**...*/" />
+                <marker date="1582553617297" expanded="false" signature="51567:51578" ph=" { " />
+                <marker date="1582553617297" expanded="false" signature="51621:51627" ph=" }" />
+                <marker date="1582553617297" expanded="true" signature="51633:51651" ph="/**...*/" />
+                <marker date="1582553617297" expanded="false" signature="51702:51713" ph=" { " />
+                <marker date="1582553617297" expanded="false" signature="51758:51764" ph=" }" />
+                <marker date="1582553617297" expanded="true" signature="51850:54882" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="51953:51964" ph="{}" />
+                <marker date="1582553617297" expanded="true" signature="52048:52113" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="52206:52271" ph="{...}" />
+                <marker date="1582553617297" expanded="false" signature="52342:52357" ph=" { " />
+                <marker date="1582553617297" expanded="false" signature="52386:52396" ph=" }" />
+                <marker date="1582553617297" expanded="true" signature="52468:54876" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="52923:53366" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="52981:53340" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="53866:54243" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="53916:54225" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="54930:55193" ph="{...}" />
+                <marker date="1582553617297" expanded="true" signature="55090:55187" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>web</find>
+      <find>write</find>
+      <find>isReadable</find>
+      <find>read</find>
+      <find>sendMsg</find>
+      <find>RESPONSE</find>
+      <find>form</find>
+      <find>s</find>
+      <find>getBytes</find>
+      <find>initAnd</find>
+      <find>NioServerSocketChannel</find>
+      <find>HeadCentext</find>
+      <find>HeadContext</find>
+      <find>headContext</find>
+      <find>ServerBootstrapAcceptor</find>
+      <find>NioEventLoop</find>
+      <find>EchoServer</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/netty-http/src/main/java/cn/enjoyedu/nettyhttp/server/RespConstant.java" />
+        <option value="$PROJECT_DIR$/netty-http/src/main/java/cn/enjoyedu/nettyhttp/client/HttpClient.java" />
+        <option value="$PROJECT_DIR$/netty-http/src/main/java/cn/enjoyedu/nettyhttp/server/HttpServer.java" />
+        <option value="$PROJECT_DIR$/netty-basic/src/main/java/cn/enjoyedu/nettybasic/serializable/msgpack/MsgPackEncode.java" />
+        <option value="$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/BusiClient.java" />
+        <option value="$PROJECT_DIR$/netty-rpc-client/pom.xml" />
+        <option value="$PROJECT_DIR$/netty-rpc-client/src/main/java/cn/enjoyedu/nettyadv/NettyClient.java" />
+        <option value="$PROJECT_DIR$/netty-rpc-client/src/main/java/cn/enjoyedu/rpc/client/rpc/RpcClientFrame.java" />
+        <option value="$PROJECT_DIR$/netty-rpc-client/src/main/java/cn/enjoyedu/rpc/client/RpcClient.java" />
+        <option value="$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/server/LoginAuthRespHandler.java" />
+        <option value="$PROJECT_DIR$/netty-ws/src/main/java/cn/enjoyedu/nettyws/server/ProcesssWsFrameHandler.java" />
+        <option value="$PROJECT_DIR$/netty-basic/src/test/java/cn/enjoyedu/nettybasic/embedded/FixedLengthFrameDecoderTest.java" />
+        <option value="$PROJECT_DIR$/udp/src/main/java/cn/enjoyedu/udp/unicast/UdpAnswerSide.java" />
+        <option value="$PROJECT_DIR$/comet/src/main/webapp/WEB-INF/views/pushNews.jsp" />
+        <option value="$PROJECT_DIR$/comet/src/main/java/cn/enjoyedu/servlet3/PushNewsController.java" />
+        <option value="$PROJECT_DIR$/stomp/src/main/java/cn/enjoyedu/stomp/WebMvcConfig.java" />
+        <option value="$PROJECT_DIR$/stomp/src/main/resources/static/wechat_room.js" />
+        <option value="$PROJECT_DIR$/stomp/src/main/java/cn/enjoyedu/stomp/WebSocketConfig.java" />
+        <option value="$PROJECT_DIR$/stomp/src/main/java/cn/enjoyedu/stomp/domain/ChatRoomRequest.java" />
+        <option value="$PROJECT_DIR$/stomp/src/main/java/cn/enjoyedu/stomp/web/StompController.java" />
+        <option value="$PROJECT_DIR$/ws/src/main/java/cn/enjoyedu/ws/WebSocketServer.java" />
+        <option value="$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/kryocodec/KryoSerializer.java" />
+        <option value="$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/server/HeartBeatRespHandler.java" />
+        <option value="$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/client/HeartBeatReqHandler.java" />
+        <option value="$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/server/ServerInit.java" />
+        <option value="$PROJECT_DIR$/bio/src/cn/enjoyedu/bio/ServerPool.java" />
+        <option value="$PROJECT_DIR$/bio/src/cn/enjoyedu/bio/Client.java" />
+        <option value="$PROJECT_DIR$/bio/src/cn/enjoyedu/bio/Server.java" />
+        <option value="$PROJECT_DIR$/rpc-client/src/cn/enjoyedu/rpc/client/RpcClient.java" />
+        <option value="$PROJECT_DIR$/rpc-server/src/cn/enjoyedu/rpc/server/rpc/RpcServerFrame.java" />
+        <option value="$PROJECT_DIR$/rpc-client/src/cn/enjoyedu/rpc/client/rpc/RpcClientFrame.java" />
+        <option value="$PROJECT_DIR$/netty-basic/src/main/java/cn/enjoyedu/nettybasic/echo/EchoClientHandle.java" />
+        <option value="$PROJECT_DIR$/netty-basic/src/main/java/cn/enjoyedu/nettybasic/echo/EchoServerHandler.java" />
+        <option value="$PROJECT_DIR$/netty-basic/src/main/java/cn/enjoyedu/nettybasic/echo/EchoServer.java" />
+        <option value="$PROJECT_DIR$/netty-basic/src/main/java/cn/enjoyedu/nettybasic/echo/EchoClient.java" />
+        <option value="$PROJECT_DIR$/nio/src/cn/enjoyedu/nio/nio/NioClientHandle.java" />
+        <option value="$PROJECT_DIR$/nio/src/cn/enjoyedu/nio/nio/NioServerHandle.java" />
+        <option value="$PROJECT_DIR$/netty-basic/src/test/java/cn/enjoyedu/nettybasic/embedded/lomb.java" />
+        <option value="$PROJECT_DIR$/netty-http/src/main/java/cn/enjoyedu/nettyhttp/server/BusiHandler.java" />
+        <option value="$PROJECT_DIR$/netty-http/src/main/java/cn/enjoyedu/nettyhttp/server/ServerHandlerInit.java" />
+        <option value="$PROJECT_DIR$/netty-basic/src/main/java/cn/enjoyedu/nettybasic/serializable/protogenesis/TestUserInfo.java" />
+        <option value="$PROJECT_DIR$/udp/src/main/java/cn/enjoyedu/udp/broadcast/bcside/LogEventBroadcaster.java" />
+        <option value="$PROJECT_DIR$/comet/src/main/java/cn/enjoyedu/sse/NobleMetalController.java" />
+        <option value="$PROJECT_DIR$/netty-basic/src/main/java/cn/enjoyedu/nettybasic/serializable/msgpack/MsgPackClientHandler.java" />
+        <option value="$PROJECT_DIR$/netty-basic/src/main/java/cn/enjoyedu/nettybasic/serializable/msgpack/ServerMsgPackEcho.java" />
+        <option value="$PROJECT_DIR$/netty-basic/src/main/java/cn/enjoyedu/nettybasic/serializable/msgpack/ClientMsgPackEcho.java" />
+        <option value="$PROJECT_DIR$/netty-basic/src/main/java/cn/enjoyedu/nettybasic/serializable/msgpack/MsgPackDecoder.java" />
+        <option value="$PROJECT_DIR$/netty-basic/src/main/java/cn/enjoyedu/nettybasic/serializable/msgpack/MsgPackServerHandler.java" />
+        <option value="$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/client/LoginAuthReqHandler.java" />
+        <option value="$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/NettyServer.java" />
+        <option value="$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/NettyClient.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Maven_Repository" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ws" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="ws" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="23" />
+    <option name="y" value="19" />
+    <option name="width" value="2418" />
+    <option name="height" value="1331" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vip-v2-netty" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vip-v2-netty" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="H:/zhilianjia-emall" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="HeadContext&#9;PSI&#9;JAVA://io.netty.channel.DefaultChannelPipeline.HeadContext&#10;NioEventLoop&#9;FILE&#9;jar://E:/Maven_Repository/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/nio/NioEventLoop.java&#10;TailC&#9;PSI&#9;JAVA://io.netty.channel.DefaultChannelPipeline.TailContext&#10;ServerBootstrapAcceptor&#9;PSI&#9;JAVA://io.netty.bootstrap.ServerBootstrap.ServerBootstrapAcceptor&#10;headContext&#9;PSI&#9;JAVA://io.netty.channel.DefaultChannelPipeline.HeadContext" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.enjoyedu.sse" />
+      <recent name="cn.enjoyedu.nettybasic.idlestate" />
+      <recent name="cn.enjoyedu.nio.nio" />
+      <recent name="cn.enjoyedu.rpc.server" />
+      <recent name="cn.enjoyedu.rpc.server.rpc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\vip-v2-netty" />
+      <recent name="D:\XiangXue\vipLesson\NIOV2\code\vip-v2-netty\netty-rpc-client\src\main\java\cn\enjoyedu\rpc" />
+      <recent name="D:\XiangXue\vipLesson\NIOV2\code\vip-v2-netty" />
+      <recent name="D:\XiangXue\vipLesson\NIOV2\code\vip-v2-netty\ws\src\main\resources" />
+      <recent name="D:\XiangXue\vipLesson\NIOV2\code\vip-v2-netty\ws\src\main\java\cn\enjoyedu\ws" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ClientMsgPackEcho">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+      <option name="HEIGHT" value="0" />
+      <module />
+    </configuration>
+    <configuration name="ClientMsgPackEcho" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.enjoyedu.nettybasic.serializable.msgpack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.nettybasic.serializable.msgpack.ClientMsgPackEcho" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="netty-basic" />
+      <envs />
+    </configuration>
+    <configuration name="LineBaseEchoClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.enjoyedu.nettybasic.splicing.linebase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.nettybasic.splicing.linebase.LineBaseEchoClient" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="netty-basic" />
+      <envs />
+    </configuration>
+    <configuration name="PerformTestUserInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.enjoyedu.nettybasic.serializable.protogenesis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.nettybasic.serializable.protogenesis.PerformTestUserInfo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="netty-basic" />
+      <envs />
+    </configuration>
+    <configuration name="ServerMsgPackEcho" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.enjoyedu.nettybasic.serializable.msgpack.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.nettybasic.serializable.msgpack.ServerMsgPackEcho" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="netty-basic" />
+      <envs />
+    </configuration>
+    <configuration name="TestUserInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.enjoyedu.nettybasic.serializable.protogenesis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.enjoyedu.nettybasic.serializable.protogenesis.TestUserInfo" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="netty-basic" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="StompApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.enjoyedu.stomp.StompApplication" />
+      <module name="stomp" />
+      <envs />
+    </configuration>
+    <configuration name="WsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.enjoyedu.ws.WsApplication" />
+      <module name="ws" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="comet" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.55(2)" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/comet/index" />
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="comet:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/comet" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_vip-v2-netty" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="54368" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="comet:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list size="8">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.WsApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.StompApplication" />
+      <item index="2" class="java.lang.String" itemvalue="Tomcat Server.comet" />
+      <item index="3" class="java.lang.String" itemvalue="Application.LineBaseEchoClient" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PerformTestUserInfo" />
+      <item index="5" class="java.lang.String" itemvalue="Application.TestUserInfo" />
+      <item index="6" class="java.lang.String" itemvalue="Application.ServerMsgPackEcho" />
+      <item index="7" class="java.lang.String" itemvalue="Application.ClientMsgPackEcho" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.ClientMsgPackEcho" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ServerMsgPackEcho" />
+        <item index="2" class="java.lang.String" itemvalue="Application.TestUserInfo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PerformTestUserInfo" />
+        <item index="4" class="java.lang.String" itemvalue="Application.LineBaseEchoClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36b99098-fdd7-41b1-84af-4b471d8bf136" name="Default" comment="" />
+      <created>1560693820155</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560693820155</updated>
+      <workItem from="1560693823054" duration="379000" />
+      <workItem from="1560694303774" duration="2042000" />
+      <workItem from="1561536977040" duration="21438000" />
+      <workItem from="1561883021533" duration="9483000" />
+      <workItem from="1562033058401" duration="1432000" />
+      <workItem from="1562047172110" duration="20191000" />
+      <workItem from="1562206194288" duration="3797000" />
+      <workItem from="1562219988129" duration="18881000" />
+      <workItem from="1562319576205" duration="636000" />
+      <workItem from="1562335173780" duration="50000" />
+      <workItem from="1562335235634" duration="1207000" />
+      <workItem from="1562466854266" duration="819000" />
+      <workItem from="1562468636508" duration="2084000" />
+      <workItem from="1562483842588" duration="17242000" />
+      <workItem from="1562566982913" duration="36000" />
+      <workItem from="1562567046917" duration="5014000" />
+      <workItem from="1562637210957" duration="16975000" />
+      <workItem from="1562811254481" duration="3251000" />
+      <workItem from="1562824137200" duration="18072000" />
+      <workItem from="1562911184562" duration="9718000" />
+      <workItem from="1563096595829" duration="12468000" />
+      <workItem from="1563154706796" duration="654000" />
+      <workItem from="1563169332851" duration="14000" />
+      <workItem from="1563244670361" duration="2931000" />
+      <workItem from="1563258184027" duration="15494000" />
+      <workItem from="1598967345714" duration="5164000" />
+      <workItem from="1599009629342" duration="80000" />
+      <workItem from="1599039550562" duration="3411000" />
+      <workItem from="1599097391582" duration="1111000" />
+      <workItem from="1599124238682" duration="1884000" />
+      <workItem from="1599126546904" duration="2238000" />
+      <workItem from="1599139948360" duration="2114000" />
+      <workItem from="1599142931327" duration="77000" />
+      <workItem from="1599182396271" duration="10487000" />
+      <workItem from="1599212320677" duration="1867000" />
+      <workItem from="1599286237712" duration="1322000" />
+      <workItem from="1599306903193" duration="284000" />
+      <workItem from="1599307649131" duration="622000" />
+      <workItem from="1599354265634" duration="3188000" />
+      <workItem from="1599400905383" duration="963000" />
+      <workItem from="1599441326391" duration="4730000" />
+      <workItem from="1599464307184" duration="5139000" />
+      <workItem from="1599482744093" duration="4202000" />
+      <workItem from="1599527791578" duration="2942000" />
+      <workItem from="1599533765767" duration="8479000" />
+      <workItem from="1599572970106" duration="2889000" />
+      <workItem from="1599613813901" duration="2226000" />
+      <workItem from="1599646176409" duration="2032000" />
+      <workItem from="1599659712150" duration="934000" />
+      <workItem from="1599701521502" duration="7857000" />
+      <workItem from="1599787605122" duration="1315000" />
+      <workItem from="1599789292338" duration="747000" />
+      <workItem from="1599791678325" duration="3410000" />
+      <workItem from="1599804437659" duration="638000" />
+      <workItem from="1600038594128" duration="3133000" />
+      <workItem from="1600049432196" duration="4577000" />
+      <workItem from="1600156601560" duration="12089000" />
+      <workItem from="1600219058677" duration="5569000" />
+      <workItem from="1600262208181" duration="4372000" />
+      <workItem from="1600305066544" duration="656000" />
+      <workItem from="1600310094217" duration="935000" />
+      <workItem from="1600349842965" duration="1710000" />
+      <workItem from="1600380662329" duration="2322000" />
+      <workItem from="1600391302669" duration="1351000" />
+      <workItem from="1600522941281" duration="684000" />
+      <workItem from="1600567802757" duration="5515000" />
+      <workItem from="1600651187629" duration="18000" />
+      <workItem from="1600683445285" duration="1275000" />
+      <workItem from="1600744851680" duration="12865000" />
+      <workItem from="1600779438532" duration="1174000" />
+      <workItem from="1600823922040" duration="2606000" />
+      <workItem from="1600866726583" duration="3413000" />
+      <workItem from="1600909791068" duration="4740000" />
+      <workItem from="1600933795113" duration="246000" />
+      <workItem from="1600951009032" duration="2423000" />
+      <workItem from="1600996655091" duration="2565000" />
+      <workItem from="1601004589595" duration="2868000" />
+      <workItem from="1601092332481" duration="7566000" />
+      <workItem from="1601169098396" duration="727000" />
+      <workItem from="1601358194285" duration="6859000" />
+      <workItem from="1601381963506" duration="1195000" />
+      <workItem from="1601437154376" duration="15000" />
+      <workItem from="1603534864970" duration="207000" />
+      <workItem from="1603677010014" duration="136000" />
+      <workItem from="1610546685530" duration="435000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FixedLengthFrameDecoderTest_testFramesDecoded - 2019.07.09 at 15h 59m 11s.xml">
+      <configuration name="FixedLengthFrameDecoderTest.testFramesDecoded" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AbsIntegerEncoderTest_testEncoded - 2019.07.09 at 16h 00m 26s.xml">
+      <configuration name="AbsIntegerEncoderTest.testEncoded" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FixedLengthFrameDecoderTest_testFramesDecoded - 2019.07.09 at 16h 00m 58s.xml">
+      <configuration name="FixedLengthFrameDecoderTest.testFramesDecoded" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FrameChunkDecoderTest_testFramesDecoded - 2019.07.09 at 16h 01m 34s.xml">
+      <configuration name="FrameChunkDecoderTest.testFramesDecoded" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AbsIntegerEncoderTest_testEncoded - 2019.07.14 at 20h 26m 20s.xml">
+      <configuration name="AbsIntegerEncoderTest.testEncoded" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FixedLengthFrameDecoderTest_testFramesDecoded - 2019.07.14 at 20h 30m 45s.xml">
+      <configuration name="FixedLengthFrameDecoderTest.testFramesDecoded" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FixedLengthFrameDecoderTest_testFramesDecoded - 2019.07.14 at 20h 31m 46s.xml">
+      <configuration name="FixedLengthFrameDecoderTest.testFramesDecoded" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="360906000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18571429" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27802944" sideWeight="0.710177" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33075222" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39233038" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31747788" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964224" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27306867" sideWeight="0.289823" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3006795" sideWeight="0.6858407" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3006795" sideWeight="0.6858407" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25106382" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32522124" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14053752" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25106382" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28719723" sideWeight="0.68274856" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="JSF" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39913544" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39233038" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32708934" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2134503" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20268758" sideWeight="0.31725147" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26429808" sideWeight="0.6813187" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/rpc-server/src/cn/enjoyedu/rpc/server/rpc/RpcServerFrame.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/netty-basic/src/main/java/cn/enjoyedu/nettybasic/serializable/msgpack/MsgPackDecoder.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="15" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://E:/JAVA8/JDK8/src.zip!/java/nio/channels/spi/SelectorProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="240" column="40" lean-forward="false" selection-start-line="240" selection-start-column="40" selection-end-line="240" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/ChannelOutboundInvoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2068">
+          <caret line="112" column="18" lean-forward="false" selection-start-line="112" selection-start-column="18" selection-end-line="112" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/ChannelOutboundHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/socket/nio/NioServerSocketChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1628">
+          <caret line="127" column="19" lean-forward="false" selection-start-line="127" selection-start-column="19" selection-end-line="127" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/Channel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="190" column="12" lean-forward="false" selection-start-line="190" selection-start-column="12" selection-end-line="190" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/AbstractChannelHandlerContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="692" column="55" lean-forward="false" selection-start-line="692" selection-start-column="53" selection-end-line="692" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/AbstractChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="846" column="25" lean-forward="false" selection-start-line="846" selection-start-column="25" selection-end-line="846" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/nio/AbstractNioChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="417" column="44" lean-forward="false" selection-start-line="417" selection-start-column="32" selection-end-line="417" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/ChannelFutureListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="51" column="26" lean-forward="false" selection-start-line="51" selection-start-column="26" selection-end-line="51" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/JAVA8/JDK8/src.zip!/java/util/concurrent/Executor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="699">
+          <caret line="139" column="9" lean-forward="false" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/util/concurrent/EventExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="46" column="12" lean-forward="false" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nio/src/cn/enjoyedu/nio/nio/NioServerHandle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="93" column="46" lean-forward="true" selection-start-line="93" selection-start-column="46" selection-end-line="93" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-basic/src/main/java/cn/enjoyedu/nettybasic/serializable/msgpack/ServerMsgPackEcho.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="38" column="33" lean-forward="true" selection-start-line="38" selection-start-column="33" selection-end-line="38" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-basic/src/main/java/cn/enjoyedu/nettybasic/splicing/demo/EchoServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="28" column="36" lean-forward="false" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/JAVA8/JDK8/src.zip!/java/nio/channels/spi/AbstractSelectionKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="40" column="22" lean-forward="false" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/JAVA8/JDK8/src.zip!/java/nio/channels/SelectionKey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1870">
+          <caret line="109" column="22" lean-forward="false" selection-start-line="109" selection-start-column="22" selection-end-line="109" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/nio/NioEventLoopGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="79" column="29" lean-forward="false" selection-start-line="79" selection-start-column="29" selection-end-line="79" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/util/concurrent/AbstractEventExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="61" column="20" lean-forward="false" selection-start-line="61" selection-start-column="15" selection-end-line="61" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/DefaultChannelPipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29128">
+          <caret line="1432" column="20" lean-forward="false" selection-start-line="1432" selection-start-column="20" selection-end-line="1432" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/nio/AbstractNioMessageChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="88" column="0" lean-forward="false" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/nio/NioEventLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="402" column="20" lean-forward="false" selection-start-line="402" selection-start-column="20" selection-end-line="402" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stomp/HELP.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/util/concurrent/SingleThreadEventExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="189" column="19" lean-forward="false" selection-start-line="189" selection-start-column="19" selection-end-line="189" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comet/src/main/java/cn/enjoyedu/emitter/SseController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-176">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/comet/src/main/java/cn/enjoyedu/servlet3/PushNewsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/kryocodec/KryoEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/kryocodec/KryoFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-301">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/server/ServerBusiHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/server/LoginAuthRespHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/server/HeartBeatRespHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/vo/MessageType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/vo/MyHeader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/vo/MyMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="19" lean-forward="false" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/handler/timeout/ReadTimeoutHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="70" column="11" lean-forward="false" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-basic/src/main/java/cn/enjoyedu/nettybasic/splicing/delimiter/DelimiterServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/SimpleChannelInboundHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="98" column="16" lean-forward="false" selection-start-line="98" selection-start-column="16" selection-end-line="98" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-basic/src/main/java/cn/enjoyedu/nettybasic/splicing/delimiter/DelimiterClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="14" column="57" lean-forward="false" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/client/HeartBeatReqHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="25" column="27" lean-forward="false" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/client/LoginAuthReqHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="40" column="73" lean-forward="false" selection-start-line="40" selection-start-column="73" selection-end-line="40" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/BusiClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="29" column="17" lean-forward="false" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/bootstrap/ServerBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="80" column="16" lean-forward="true" selection-start-line="80" selection-start-column="16" selection-end-line="80" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/bootstrap/AbstractBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="678">
+          <caret line="80" column="13" lean-forward="false" selection-start-line="80" selection-start-column="13" selection-end-line="80" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/NettyServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="29" column="31" lean-forward="false" selection-start-line="29" selection-start-column="31" selection-end-line="29" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/esotericsoftware/kryo/4.0.0/kryo-4.0.0.jar!/com/esotericsoftware/kryo/Kryo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16302">
+          <caret line="840" column="0" lean-forward="false" selection-start-line="840" selection-start-column="0" selection-end-line="840" selection-end-column="0" />
+          <folding>
+            <marker date="1582553617297" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1582553617297" expanded="false" signature="149:5956" ph="..." />
+            <marker date="1582553617297" expanded="false" signature="7317:7328" ph=" { " />
+            <marker date="1582553617297" expanded="false" signature="7417:7423" ph=" }" />
+            <marker date="1582553617297" expanded="true" signature="7478:7574" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="7658:7741" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="7854:12926" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="12995:13190" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="13269:13497" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="13571:14073" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="14161:14655" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="14751:15272" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="15329:16229" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="16305:16665" ph="{...}" />
+            <marker date="1582553617297" expanded="false" signature="16724:16735" ph=" { " />
+            <marker date="1582553617297" expanded="false" signature="16792:16798" ph=" }" />
+            <marker date="1582553617297" expanded="true" signature="16845:17037" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="17092:17288" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="17358:17705" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="17783:17987" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="18049:18677" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="18718:19027" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="19081:20452" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="20512:20677" ph="{...}" />
+            <marker date="1582553617297" expanded="false" signature="20731:20742" ph=" { " />
+            <marker date="1582553617297" expanded="false" signature="20793:20799" ph=" }" />
+            <marker date="1582553617297" expanded="false" signature="20848:20859" ph=" { " />
+            <marker date="1582553617297" expanded="false" signature="20909:20915" ph=" }" />
+            <marker date="1582553617297" expanded="true" signature="20979:21408" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="21468:22399" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="21468:22413" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="22496:23470" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="23548:24974" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="25063:26379" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="26447:27476" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="27560:28782" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="28831:29250" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="29308:30634" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="30715:32114" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="32178:33921" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="34008:35753" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="35805:37421" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="37495:38993" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="39036:39628" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="39654:40154" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="40188:41585" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="41642:43012" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="43053:44471" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="44535:45926" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="45959:46461" ph="{...}" />
+            <marker date="1582553617297" expanded="false" signature="46506:46517" ph=" { " />
+            <marker date="1582553617297" expanded="false" signature="46543:46549" ph=" }" />
+            <marker date="1582553617297" expanded="false" signature="46602:46613" ph=" { " />
+            <marker date="1582553617297" expanded="false" signature="46643:46649" ph=" }" />
+            <marker date="1582553617297" expanded="true" signature="46707:46899" ph="{...}" />
+            <marker date="1582553617297" expanded="false" signature="46940:46951" ph=" { " />
+            <marker date="1582553617297" expanded="false" signature="46975:46981" ph=" }" />
+            <marker date="1582553617297" expanded="true" signature="47053:47235" ph="{...}" />
+            <marker date="1582553617297" expanded="false" signature="47280:47291" ph=" { " />
+            <marker date="1582553617297" expanded="false" signature="47324:47330" ph=" }" />
+            <marker date="1582553617297" expanded="true" signature="47408:47603" ph="{...}" />
+            <marker date="1582553617297" expanded="false" signature="47651:47662" ph=" { " />
+            <marker date="1582553617297" expanded="false" signature="47698:47704" ph=" }" />
+            <marker date="1582553617297" expanded="true" signature="47759:48199" ph="{...}" />
+            <marker date="1582553617297" expanded="false" signature="48258:48269" ph=" { " />
+            <marker date="1582553617297" expanded="false" signature="48306:48312" ph=" }" />
+            <marker date="1582553617297" expanded="false" signature="48373:48384" ph=" { " />
+            <marker date="1582553617297" expanded="false" signature="48418:48424" ph=" }" />
+            <marker date="1582553617297" expanded="false" signature="48497:48508" ph=" { " />
+            <marker date="1582553617297" expanded="false" signature="48548:48554" ph=" }" />
+            <marker date="1582553617297" expanded="true" signature="48630:49026" ph="{...}" />
+            <marker date="1582553617297" expanded="false" signature="49062:49073" ph=" { " />
+            <marker date="1582553617297" expanded="false" signature="49096:49102" ph=" }" />
+            <marker date="1582553617297" expanded="false" signature="49174:49185" ph=" { " />
+            <marker date="1582553617297" expanded="false" signature="49210:49216" ph=" }" />
+            <marker date="1582553617297" expanded="false" signature="49275:49286" ph=" { " />
+            <marker date="1582553617297" expanded="false" signature="49307:49313" ph=" }" />
+            <marker date="1582553617297" expanded="false" signature="49375:49386" ph=" { " />
+            <marker date="1582553617297" expanded="false" signature="49431:49437" ph=" }" />
+            <marker date="1582553617297" expanded="true" signature="49483:49829" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="49865:49992" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="50033:50175" ph="{...}" />
+            <marker date="1582553617297" expanded="false" signature="50202:50213" ph=" { " />
+            <marker date="1582553617297" expanded="false" signature="50231:50237" ph=" }" />
+            <marker date="1582553617297" expanded="false" signature="50284:50295" ph=" { " />
+            <marker date="1582553617297" expanded="false" signature="50322:50328" ph=" }" />
+            <marker date="1582553617297" expanded="false" signature="50377:50388" ph=" { " />
+            <marker date="1582553617297" expanded="false" signature="50415:50421" ph=" }" />
+            <marker date="1582553617297" expanded="true" signature="50465:50639" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="50680:50951" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="50997:51183" ph="{...}" />
+            <marker date="1582553617297" expanded="false" signature="51234:51245" ph=" { " />
+            <marker date="1582553617297" expanded="false" signature="51274:51280" ph=" }" />
+            <marker date="1582553617297" expanded="false" signature="51325:51336" ph=" { " />
+            <marker date="1582553617297" expanded="false" signature="51362:51368" ph=" }" />
+            <marker date="1582553617297" expanded="false" signature="51431:51442" ph=" { " />
+            <marker date="1582553617297" expanded="false" signature="51477:51483" ph=" }" />
+            <marker date="1582553617297" expanded="true" signature="51489:51507" ph="/**...*/" />
+            <marker date="1582553617297" expanded="false" signature="51567:51578" ph=" { " />
+            <marker date="1582553617297" expanded="false" signature="51621:51627" ph=" }" />
+            <marker date="1582553617297" expanded="true" signature="51633:51651" ph="/**...*/" />
+            <marker date="1582553617297" expanded="false" signature="51702:51713" ph=" { " />
+            <marker date="1582553617297" expanded="false" signature="51758:51764" ph=" }" />
+            <marker date="1582553617297" expanded="true" signature="51850:54882" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="51953:51964" ph="{}" />
+            <marker date="1582553617297" expanded="true" signature="52048:52113" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="52206:52271" ph="{...}" />
+            <marker date="1582553617297" expanded="false" signature="52342:52357" ph=" { " />
+            <marker date="1582553617297" expanded="false" signature="52386:52396" ph=" }" />
+            <marker date="1582553617297" expanded="true" signature="52468:54876" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="52923:53366" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="52981:53340" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="53866:54243" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="53916:54225" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="54930:55193" ph="{...}" />
+            <marker date="1582553617297" expanded="true" signature="55090:55187" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/kryocodec/KryoSerializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="37" column="25" lean-forward="false" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/kryocodec/KryoDecoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/server/ServerInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="16" column="64" lean-forward="false" selection-start-line="16" selection-start-column="51" selection-end-line="16" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.28.Final/netty-all-4.1.28.Final-sources.jar!/io/netty/channel/ChannelOption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2068">
+          <caret line="121" column="58" lean-forward="false" selection-start-line="121" selection-start-column="47" selection-end-line="121" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/client/ClientInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="50" lean-forward="false" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/vo/NettyConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netty-adv/src/main/java/cn/enjoyedu/nettyadv/NettyClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="25" column="3" lean-forward="false" selection-start-line="25" selection-start-column="3" selection-end-line="25" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>comet:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>netty-basic</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: commons-logging:commons-logging:1.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
